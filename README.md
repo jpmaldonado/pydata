@@ -5,6 +5,7 @@ Materials for a 3-day workshop on Python for Data Analysis
 - [10 minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
 - [Working with time series](https://jakevdp.github.io/PythonDataScienceHandbook/03.11-working-with-time-series.html)
 - [Full list of date time patterns](https://docs.python.org/2/library/datetime.html#strftime-and-strptime-behavior)
+- [Pandas cheatsheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 
 ## Books
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) 
